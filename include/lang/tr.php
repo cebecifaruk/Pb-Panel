@@ -11,6 +11,9 @@ $lang['applications']='Uygulamalar';
 //Kategoriler
 
 $lang['system']='Sistem';
+$lang['tools']='Araçlar';
+$lang['settings']='Ayarlar';
+
 
 
 ?>

@@ -1,1 +1,4 @@
-Eklenti1
+<html>
+
+<b>Simple Plugin - Örnek Eklenti </b>
+</html>

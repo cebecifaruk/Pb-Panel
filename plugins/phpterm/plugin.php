@@ -3,10 +3,10 @@ include ($_SERVER['DOCUMENT_ROOT']."/config.php");
 
 
 
-$plugin_name['tr']="Örnek Eklenti";
-$plugin_name['en']="Simple Plugin";
-$plugin_dir_name="Simple-Plugin";
-$plugin_icon_name="icon.png";
+$plugin_name['tr']="Uçbirim";
+$plugin_name['en']="Terminal";
+$plugin_dir_name="phpterm";
+$plugin_icon_name="terminal_icon.png";
 $plugin_category="system";
 
 
