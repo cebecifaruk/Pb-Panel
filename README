@@ -1,9 +1,8 @@
 Pb-Panel
-
+===
 Plugin Based Control Panel
 
 
 Config File: 			config.php
 Themes Installation Dir: 	/themes
 Plugin Installation Dir:	/plugins
-
